@@ -1,0 +1,12 @@
+p {
+  font-family: avenir;
+  font: normal;
+  color: #ccc;
+  font-size: 14px;
+  text-align: center;
+  margin: 30px;
+}
+
+a {
+  color: green;
+}
